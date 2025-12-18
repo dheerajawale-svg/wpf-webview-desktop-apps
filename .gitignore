@@ -202,6 +202,6 @@ MSBuild_Logs/
 *.msp
 
 # Node.js dependencies webview
-frontend/node_modules/
+**/node_modules/
 src/DesktopHostWpf/www/*
 
